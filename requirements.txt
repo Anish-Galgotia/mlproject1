@@ -1,0 +1,5 @@
+pandas
+numpy 
+seaborn
+-e .  '-e means editable mode, it tells pip to install the package from current directory. Note: install_requires in setup.py expects only package names, not editable install options.'
+
